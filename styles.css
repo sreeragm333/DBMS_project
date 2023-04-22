@@ -1,0 +1,189 @@
+.main{
+    display: flex;
+    background-color:cornsilk ;
+}
+body{
+    height: 100%;
+}
+.contentSpace{
+height: 100vh;
+}
+.sideBar{
+    background-color: #ffff;
+    height: 730px;
+    width: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+.contentBox{
+    width: 800px;
+    height: 500px;
+    background-color: #280d0d;
+    border-style: solid;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 130px;
+    margin-left: 350px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.formSpace{
+    background-color: #ffff;
+    height: 500px;
+    width: 400px;
+    border-style: solid;
+    border-radius: 15px 0 0 15px;
+}
+.writtenSpace{
+    background-color: #e65656;
+    height: 500px;
+    width: 400px;
+    border-style: solid;
+    border-radius: 0 15px 15px 0;
+}
+*{
+    margin: 0;
+    border: 0;
+}
+.formInput{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.loginHead{
+    margin-top: 30px;
+    margin-left: 130px;
+    font-size: 25px;
+}
+input[type=text]{
+    background-color: rgb(225, 225, 216);
+    width: 300px;
+    height: 40px;
+    margin-top: 30px;
+}
+.loginHead{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.loginButton{
+padding-bottom: 60px;
+}
+.buttonId{
+    margin-left: 130px;
+    margin-top: 40px;
+    width: 150px;
+    height: 40px;
+    background-color: #e65656;
+    border-radius: 15px; 
+    color: #ffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.accounttxt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin-left: 70px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+input[type="text"]::placeholder{
+    padding-left: 20px;
+}
+.registertxt{
+margin-top: 40px;
+margin-left: 40px;
+}
+img{
+    padding-top: 90px;
+    padding-left: 90px;
+}
+
+.Icon1{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 0;
+
+}
+.IconName1{
+    font-size: 15px;
+    margin-left: 15px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.Icon2{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 0;
+
+}
+.IconName2{
+    font-size: 15px;
+    margin-left: 5px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.Icon3{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 0;
+
+}
+.IconName3{
+    font-size: 15px;
+    margin-left: 7px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.IconName4{
+    font-size: 15px;
+    margin-left: 8px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.Icon4{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 0;
+
+}
+.IconName5{
+    font-size: 15px;
+    margin-left: 14px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.Icon5{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 0;
+
+}
+.IconName6{
+    font-size: 15px;
+    margin-left: 5px;
+    color:#e65656 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.Icon6{
+    width: 50px;
+    height: 50px;
+    margin-left: 17px;
+    margin-top: 40px;
+    padding: 0;
+   
+
+}
+
+a{
+    text-decoration: none;
+}
